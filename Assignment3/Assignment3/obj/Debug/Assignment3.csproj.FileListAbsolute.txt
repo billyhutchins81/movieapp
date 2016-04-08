@@ -1,0 +1,12 @@
+C:\Users\Gazelle\Documents\Computer Programmer Files\Computer Programming 4th Sem\Web Services in .NET and C#\Assignments\Assignment3\Assignment3\bin\Assignment3.dll.config
+C:\Users\Gazelle\Documents\Computer Programmer Files\Computer Programming 4th Sem\Web Services in .NET and C#\Assignments\Assignment3\Assignment3\bin\Assignment3.dll
+C:\Users\Gazelle\Documents\Computer Programmer Files\Computer Programming 4th Sem\Web Services in .NET and C#\Assignments\Assignment3\Assignment3\bin\Assignment3.pdb
+C:\Users\Gazelle\Documents\Computer Programmer Files\Computer Programming 4th Sem\Web Services in .NET and C#\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.dll
+C:\Users\Gazelle\Documents\Computer Programmer Files\Computer Programming 4th Sem\Web Services in .NET and C#\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\Gazelle\Documents\Computer Programmer Files\Computer Programming 4th Sem\Web Services in .NET and C#\Assignments\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\Gazelle\Documents\Computer Programmer Files\Computer Programming 4th Sem\Web Services in .NET and C#\InClass\Assignment3\Assignment3\bin\Assignment3.dll.config
+C:\Users\Gazelle\Documents\Computer Programmer Files\Computer Programming 4th Sem\Web Services in .NET and C#\InClass\Assignment3\Assignment3\bin\Assignment3.dll
+C:\Users\Gazelle\Documents\Computer Programmer Files\Computer Programming 4th Sem\Web Services in .NET and C#\InClass\Assignment3\Assignment3\bin\Assignment3.pdb
+C:\Users\Gazelle\Documents\Computer Programmer Files\Computer Programming 4th Sem\Web Services in .NET and C#\InClass\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\Gazelle\Documents\Computer Programmer Files\Computer Programming 4th Sem\Web Services in .NET and C#\InClass\Assignment3\Assignment3\obj\Debug\Assignment3.dll
+C:\Users\Gazelle\Documents\Computer Programmer Files\Computer Programming 4th Sem\Web Services in .NET and C#\InClass\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
